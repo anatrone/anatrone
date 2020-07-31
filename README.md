@@ -14,8 +14,6 @@
 - :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
 - :open_file_folder: Certificates [here](https://bit.ly/348Bi7r)
 
-[![HitCount](http://hits.dwyl.com/anatrone/anatrone.svg)](http://hits.dwyl.com/anatrone/anatrone)
-
 <!--
 **anatrone/anatrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
