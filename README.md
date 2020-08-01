@@ -10,7 +10,7 @@
 
 - :computer: Full-stack developer
 - :books: Currently learning: +React and +Node.js
-- :rocket: Skills: Javascript, PHP, SQL, C/C++/C# ... 
+- :rocket: Skills: Javascript, PHP, SQL, C# ... 
 - :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
 - :open_file_folder: Certificates [here](https://bit.ly/348Bi7r)
 
