@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/anatrone)
 
 
-- :computer: Full-stack developer at Koder
+- :computer: Full-stack developer at eMutua Digital
 - :books: Currently learning: +React and +Node.js
 - :rocket: Skills: Javascript, PHP, SQL, C# ... 
 - :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
