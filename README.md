@@ -10,7 +10,7 @@
 
 - :computer: Full-stack developer at eMutua Digital
 - :books: Currently learning: +React and +Node.js
-- :rocket: Skills: Javascript, PHP, SQL, C# ... 
+- :rocket: Skills: JavaScript, PHP, SQL, C# ... 
 - :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
 - :open_file_folder: Certificates [here](https://bit.ly/348Bi7r)
 
