@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/-anatrone-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/anatrone)
 [![LinkedIn](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/anatrone)
 
-
 - :computer: Full-stack developer
+- :school: Graduated in IT Management
 - :books: Currently learning: +React and +Node.js
 - :rocket: Skills: JavaScript, PHP, SQL, C# ... 
 - :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
