@@ -8,7 +8,7 @@
 
 - :computer: Full-stack developer
 - :school: Graduated in IT Management
-- :books: Currently learning: +React and +Node.js
+- :books: Currently learning: +React, +Node.js and +Typescript
 - :rocket: Skills: JavaScript, PHP, SQL, C# ... 
 - :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
 - :open_file_folder: Certificates [here](https://bit.ly/348Bi7r)
