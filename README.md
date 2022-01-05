@@ -1,10 +1,10 @@
 # 🖖🏼 Hi folks! (ノಠ益ಠ)ノ彡 
 
 [![LinkedIn](https://img.shields.io/badge/-anatrone-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatrone/)
-[![LinkedIn](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:anatrone.gabriel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anatrone/)
-[![LinkedIn](https://img.shields.io/badge/-anatrone-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/anatrone)
-[![LinkedIn](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/anatrone)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:anatrone.gabriel@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/anatrone/)
+[![Steam](https://img.shields.io/badge/-anatrone-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/anatrone)
+[![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/anatrone)
 
 - :computer: Full-stack developer
 - :school: Graduated in IT Management
