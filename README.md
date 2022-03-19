@@ -10,7 +10,7 @@
 - :school: Graduated in IT Management
 - :books: Currently learning: +React, +Node.js and +Typescript
 - :rocket: Skills: JavaScript, PHP, SQL, C# ... 
-- :wrench: Frameworks: ReactJS, React Native, Laravel, CodeIgniter
+- :wrench: Frameworks: ReactJS/Native, Node, Laravel, CodeIgniter
 - :open_file_folder: Certificates [here](https://bit.ly/348Bi7r)
 
 <!--
