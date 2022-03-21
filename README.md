@@ -1,4 +1,4 @@
-# 🖖🏼 Hi folks! (ノಠ益ಠ)ノ彡 
+# 🖖🏼 Hello! (ノಠ益ಠ)ノ彡 
 
 [![LinkedIn](https://img.shields.io/badge/-anatrone-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatrone/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:anatrone.gabriel@gmail.com)
