@@ -6,7 +6,7 @@
 [![Steam](https://img.shields.io/badge/-anatrone-black?style=flat-square&logo=Steam&logoColor=white)](https://steamcommunity.com/id/anatrone)
 [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/anatrone)
 
-- :computer: Software Engineer jr.
+- :computer: Software Engineer.
 - :school: Graduated in IT Management
 - :books: Currently learning: +React, +Node.js and +Typescript
 - :rocket: Skills: JavaScript, PHP, SQL, C# ... 
