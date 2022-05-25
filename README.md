@@ -8,9 +8,9 @@
 
 - :computer: Software Engineer.
 - :school: Graduated in IT Management
-- :books: Currently learning: +React, +Node.js and +Typescript
-- :rocket: Skills: JavaScript, PHP, SQL, C# ... 
-- :wrench: Frameworks: ReactJS/Native, Node, Laravel, CodeIgniter
+- :books: Currently learning: +React, +Node and +Typescript
+- :rocket: Programming Language Skills: JavaScript, PHP, SQL, C# ... 
+- :wrench: Frameworks: ReactJS/Native, Laravel, CodeIgniter
 - :open_file_folder: Certificates [here](https://bit.ly/348Bi7r)
 
 <!--
